@@ -1,0 +1,50 @@
+* {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+.wrapper {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  background: lightyellow;
+}
+
+nav {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  background: salmon;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, li, label {
+  color: blue;
+}
+
+ul {
+ list-style: none;
+ padding: 0;
+}
+
+input, button {
+  margin: 20px 20px 20px 0;
+  padding: 10px;
+}
+
+span {
+  margin-right: 20px;
+}
+
+.contacted {
+  text-decoration: line-through;
+}
+
+#output-container {
+  width: calc(100% - 20px);
+  min-height: 200px;
+  text-align: left;
+  padding: 10px;
+  background: yellowgreen;
+}
