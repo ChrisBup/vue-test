@@ -1,6 +1,6 @@
 # Vue Test 1
 
-> A Vue.js project
+reference: [Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
 
 ## Build Setup
 
